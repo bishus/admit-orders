@@ -5,3 +5,5 @@ diagnosis: IBD <br>
 Condition: great <br>
 Vitals: ad libidum <br>
 Nursing: none <br>
+allergies: trump <br>
+activity: always <br>
